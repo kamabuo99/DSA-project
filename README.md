@@ -11,6 +11,4 @@ My first portfolio learning Data analysis in The Incubator Hub. Breakdown of Git
  - the
     - bag [download here](http:microsoft.com)
 
-'''
- Select A,B,C
-'''
+
